@@ -1,0 +1,31 @@
+table {
+    margin: auto auto;
+    border: solid 3px white;
+    text-align: center;
+    width: 600px;
+  }
+  
+  .headliner {
+    font-size: 30px;
+  }
+  
+  
+  td {
+    
+  
+    border: solid 3px white;
+    font-size: 20px;
+    
+  }
+  
+  #Citation {
+    text-align: center;
+  }
+  
+  body{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+  
+  }
